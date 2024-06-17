@@ -10,7 +10,7 @@ My name is Valentin!
 
 ## Contact me
 Find me over on the:\
-📧 [Email]()\
+📧 [Email](valentinfuntakk@gmail.com)\
 🌐 [Instagram]()
 
 Here are some ideas to get you started:
