@@ -9,9 +9,9 @@ My name is Valentin!
 * Nature
 
 ## Contact me
-Find me over on the:  \
-[Email]() \
-[Instagram]()
+Find me over on the:
+\ [Email]() 
+\ [Instagram]()
 
 Here are some ideas to get you started:
 
