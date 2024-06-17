@@ -3,7 +3,7 @@
 ## About me
 My name is Valentin! 
 
-### Likes
+## Likes
 * Football
 * Programming
 * Nature
