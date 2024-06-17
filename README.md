@@ -11,7 +11,7 @@ My name is Valentin!
 ## Contact me
 Find me over on the:\
 [Email]()
-\ [Instagram]()
+\[Instagram]()
 
 Here are some ideas to get you started:
 
