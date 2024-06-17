@@ -1,20 +1,15 @@
-## Hi there 👋
-
-
-# Welcome to my GitHub profile
+# ✨Welcome to my GitHub profile✨
 
 ## About me
-I'm Valentin, an Octocat and GitHub mascot! 
+My name is Valentin! 
 
 ### Likes
-* Tuna melts
-* Beautiful code
-* Swimming in the ocean
+* Football
+* Programming
+* Nature
 
 ## Contact me
-Find me over on the [GitHub Blog](https://github.blog/) or on the [GitHub Community Discussions](https://github.com/orgs/community/discussions)
-
-**valentinfuntak/valentinfuntak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Find me over on the [Email]() or on the [Instagram]()
 
 Here are some ideas to get you started:
 
