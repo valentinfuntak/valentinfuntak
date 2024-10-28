@@ -1,4 +1,4 @@
-# ✨Welcome to my GitHub profile✨
+# Welcome to my GitHub profile
 
 ## About me
 My name is Valentin! 
