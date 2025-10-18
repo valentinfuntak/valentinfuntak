@@ -1,7 +1,7 @@
 <h2 align="left">Hi! I'm Valentin.</h2>
 <p align="left">🚀 I’m a 1st-year student in Information & Business Systems, passionate about web development, APIs, and AI technologies.</p>
 
-<!-- ⚛️ Frameworks & Libraries -->
+<!--  Frameworks & Libraries -->
 <h3 align="left">Frameworks & Libraries</h3>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<!-- 🌐 Frontend Technologies -->
+<!--  Frontend Technologies -->
 <h3 align="left">Frontend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -25,7 +25,7 @@
   </a>
 </p>
 
-<!-- 🖥️ Programming Languages -->
+<!--  Programming Languages -->
 <h3 align="left">Programming Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -33,7 +33,7 @@
   </a>
 </p>
 
-<!-- 🖥️GameDev -->
+<!-- GameDev -->
 <h3 align="left">GameDev</h3>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -41,7 +41,7 @@
   </a>
 </p>
 
-<!-- 🐳 Containers & Virtualization -->
+<!--  Containers & Virtualization -->
 <h3 align="left">Containers & Virtualization</h3>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -49,7 +49,7 @@
   </a>
 </p>
 
-<!-- 🧰 Tools & Environment -->
+<!--  Tools & Environment -->
 <h3 align="left">Tools & Environment</h3>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -57,7 +57,7 @@
   </a>
 </p>
 
-<!-- 🎨 Design -->
+<!--  Design -->
 <h3 align="left">Design</h3>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -65,7 +65,7 @@
   </a>
 </p>
 
-<!-- ☁️ Cloud & Hosting -->
+<!--  Cloud & Hosting -->
 <h3 align="left">Cloud & Hosting</h3>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -73,7 +73,7 @@
   </a>
 </p>
 
-<!-- 📫 Contact -->
+<!--  Contact -->
 <h3 align="left">Contact Me</h3>
 <p align="left">
   <a href="mailto:tvojemail@gmail.com" target="_blank">
