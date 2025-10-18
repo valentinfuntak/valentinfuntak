@@ -1,10 +1,18 @@
 <h2 align="left">Hi! I'm Valentin.</h2>
 
+<!-- ⚛️ Frameworks & Libraries -->
+<h3 align="left">Frameworks & Libraries</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,solidjs" />
+  </a>
+</p>
+
 <!-- 🌐 Frontend Technologies -->
 <h3 align="left">Frontend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidjs,react,js,ts,html,css,tailwind," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind" />
   </a>
 </p>
 
@@ -12,7 +20,7 @@
 <h3 align="left">Backend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=supabase,sqlite,nodejs,express," />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,sqlite" />
   </a>
 </p>
 
@@ -20,7 +28,7 @@
 <h3 align="left">Tools & Environment</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,npm" />
+    <img src="https://skillicons.dev/icons?i=vscode,npm,wasm" />
   </a>
 </p>
 
