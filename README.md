@@ -105,5 +105,5 @@
 
 <!-- FOI Logo prikazan preko cijele širine -->
 <a href="https://www.foi.unizg.hr/hr">
-  <img src="https://www.foi.unizg.hr/sites/default/files/logo800500.png" alt="FOI Logo" style="width:100%; max-width:100px; height:100px;" />
+  <img src="https://www.foi.unizg.hr/sites/default/files/logo800500.png" alt="FOI Logo" />
 </a>
