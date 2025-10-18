@@ -52,7 +52,10 @@
 <!-- 📫 Contact -->
 <h3 align="left">Contact Me</h3>
 <p align="left">
-  <a href="[https://skillicons.dev](https://www.linkedin.com/in/valentin-funtak-73636338b/)">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/valentin-funtak-73636338b/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/tvoj-profil/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </p>
