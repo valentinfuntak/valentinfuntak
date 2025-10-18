@@ -4,7 +4,7 @@
 <h3 align="left">Frontend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,solidjs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=solidjs,react,js,ts,html,css,tailwind," />
   </a>
 </p>
 
