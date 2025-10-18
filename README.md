@@ -1,7 +1,7 @@
 <div align="center">
-  <h2>Hi! I'm Valentin</h2>
+  <h1 style="font-size:3em;">Hi! I'm Valentin</h1>
   <img src="https://www.foi.unizg.hr/sites/default/files/logo800500.png" alt="FOI Logo" height="60" style="margin: 10px 0;" />
-  <p>
+  <p style="font-size:1.3em; max-width:600px;">
     I’m a 1st-year student in <strong>Information & Business Systems</strong>, passionate about web development, APIs, and AI technologies.
   </p>
 </div>
@@ -81,13 +81,13 @@
 <!-- Contact -->
 <h3 align="left">Contact Me</h3>
 <p align="left">
-  <a href="mailto:tvojemail@gmail.com">
+  <a href="mailto:tvojemail@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/valentin-funtak-73636338b/"">
+  <a href="https://www.linkedin.com/in/valentin-funtak-73636338b/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/valentinfuntakkk/">
+  <a href="https://www.instagram.com/valentinfuntakkk/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </p>
