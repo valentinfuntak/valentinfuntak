@@ -1,15 +1,15 @@
-<div align="center">
+<!--<div align="center">-->
   <h1 style="font-size:3em;">Hi! I'm Valentin</h1>
-    <p style="font-size:1.3em; margin:0;">
+    <!--<p style="font-size:1.3em; margin:0;">
       I’m a 1st-year student in <strong>Information & Business Systems</strong>, passionate about web development, APIs, and AI technologies.
-    </p>
+    </p>-->
     <a href="https://www.foi.unizg.hr/hr">
       <img src="https://www.foi.unizg.hr/sites/default/files/logo800500.png" alt="FOI Logo" height="60" />
     </a>
-</div>
+<!--</div>-->
 
 <!-- Frameworks & Libraries -->
-<h3 align="left">Frameworks & Libraries</h3>
+<!--<h3 align="left">Frameworks & Libraries</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,solidjs,flutter" />
@@ -17,7 +17,7 @@
 </p>
 
 <!-- Frontend Technologies -->
-<h3 align="left">Frontend</h3>
+<!--<h3 align="left">Frontend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind" />
@@ -25,7 +25,7 @@
 </p>
 
 <!-- Backend Technologies -->
-<h3 align="left">Backend</h3>
+<!--<h3 align="left">Backend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,sqlite" />
@@ -33,7 +33,7 @@
 </p>
 
 <!-- Programming Languages -->
-<h3 align="left">Programming Languages</h3>
+<!--<h3 align="left">Programming Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,godot" />
@@ -41,7 +41,7 @@
 </p>
 
 <!-- Game Development -->
-<h3 align="left">Game Development</h3>
+<!--<h3 align="left">Game Development</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=godot" />
@@ -49,7 +49,7 @@
 </p>
 
 <!-- Containers & Virtualization -->
-<h3 align="left">Containers & Virtualization</h3>
+<!--<h3 align="left">Containers & Virtualization</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,selenium" />
@@ -57,7 +57,7 @@
 </p>
 
 <!-- Tools & Environment -->
-<h3 align="left">Tools & Environment</h3>
+<!--<h3 align="left">Tools & Environment</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,npm,git" />
@@ -65,7 +65,7 @@
 </p>
 
 <!-- Design -->
-<h3 align="left">Design</h3>
+<!--<h3 align="left">Design</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma" />
@@ -73,7 +73,7 @@
 </p>
 
 <!-- Cloud & Hosting -->
-<h3 align="left">Cloud & Hosting</h3>
+<!--<h3 align="left">Cloud & Hosting</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vercel,github,githubactions" />
