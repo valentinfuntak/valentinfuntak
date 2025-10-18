@@ -1,7 +1,7 @@
 <!--<div align="center">-->
-  <!--<h1 style="font-size:3em;">Hi! I'm Valentin</h1>-->
-      <p style="font-size:1.3em; margin:0;">
-      I’m a 1st-year student in <strong>Information & Business Systems</strong>, passionate about web development, APIs, and AI technologies.
+  <!--<h1 style="font-size:3em;">Hi! I'm Valentin</h1>
+       <!--<p style="font-size:1.3em; margin:0;">-->
+      <!-- I’m a 1st-year student in <strong>Information & Business Systems</strong>, passionate about web development, APIs, and AI technologies.-->
     </p>
 <!--</div>-->
 
