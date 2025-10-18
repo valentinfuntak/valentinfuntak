@@ -33,6 +33,14 @@
   </a>
 </p>
 
+<!-- 🖥️GameDev -->
+<h3 align="left">GameDev</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=godot" />
+  </a>
+</p>
+
 <!-- 🐳 Containers & Virtualization -->
 <h3 align="left">Containers & Virtualization</h3>
 <p align="left">
