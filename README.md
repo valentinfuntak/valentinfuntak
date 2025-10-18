@@ -1,4 +1,5 @@
 <h2 align="left">Hi! I'm Valentin.</h2>
+<p align="left">🚀 I’m a 1st-year student in Information & Business Systems, passionate about web development, APIs, and AI technologies.</p>
 
 <!-- ⚛️ Frameworks & Libraries -->
 <h3 align="left">Frameworks & Libraries</h3>
@@ -28,7 +29,7 @@
 <h3 align="left">Tools & Environment</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,npm" />
+    <img src="https://skillicons.dev/icons?i=vscode,npm,git" />
   </a>
 </p>
 
@@ -38,4 +39,28 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma" />
   </a>
+</p>
+
+<!-- 🤖 AI & APIs -->
+<h3 align="left">AI & APIs</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=openai,flightradar,open-meteo" />
+  </a>
+</p>
+
+<!-- ☁️ Cloud & Hosting -->
+<h3 align="left">Cloud & Hosting</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,vercel,supabase" />
+  </a>
+</p>
+
+<!-- 📫 Contact -->
+<h3 align="left">Contact Me</h3>
+<p align="left">
+  <a href="mailto:tvojemail@gmail.com"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&style=for-the-badge" alt="email" height="35" /></a>
+  <a href="https://www.linkedin.com/in/tvoj-profil"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" alt="linkedin" height="35" /></a>
+  <a href="https://github.com/tvoj-github"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&style=for-the-badge" alt="github" height="35" /></a>
 </p>
