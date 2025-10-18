@@ -109,15 +109,3 @@
        alt="FOI Logo" 
        style="height:60px; width:auto;" />
 </a>
-
-<p>
-  <a href="mailto:tvojemail@gmail.com" target="_blank" style="display:inline-block; margin-right:10px;">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/valentin-funtak-73636338b/" target="_blank" style="display:inline-block; margin-right:10px;">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" />
-  </a>
-  <a href="https://www.instagram.com/valentinfuntakkk/" target="_blank" style="display:inline-block;">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" />
-  </a>
-</p>
