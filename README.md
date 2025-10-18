@@ -2,4 +2,4 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,tailwind,solidjs,express,nodejs,figma,npm,react,sqlite,supabase,ts,vscode)](https://skillicons.dev)
