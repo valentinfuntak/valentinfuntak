@@ -81,14 +81,18 @@
 <!-- Contact -->
 <h3 align="left">Contact Me</h3>
 <p align="left">
-  <a href="mailto:tvojemail@gmail.com" target="_blank" style="text-decoration:none; margin-right:10px;">
+  <a href="mailto:tvojemail@gmail.com" target="_blank" 
+     style="display:inline-block; text-decoration:none; margin-right:10px; vertical-align:middle;">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/valentin-funtak-73636338b/" target="_blank" style="text-decoration:none; margin-right:10px;">
+  <a href="https://www.linkedin.com/in/valentin-funtak-73636338b/" target="_blank" 
+     style="display:inline-block; text-decoration:none; margin-right:10px; vertical-align:middle;">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/valentinfuntakkk/" target="_blank" style="text-decoration:none;">
+  <a href="https://www.instagram.com/valentinfuntakkk/" target="_blank" 
+     style="display:inline-block; text-decoration:none; vertical-align:middle;">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </p>
+
 
