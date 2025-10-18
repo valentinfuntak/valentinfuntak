@@ -2,8 +2,8 @@
   <h1 style="font-size:3em;">Hi! I'm Valentin</h1>
 </div>
 <div>
-    <h1 style="font-size:3em;">About me</h1>
-  <p style="font-size:1.3em; max-width:600px;">
+    <h1 style="font-size:3em; align="center">About me</h1>
+  <p style="font-size:1.3em;  max-width:600px; align="center">
     I’m a 1st-year student in <strong>Information & Business Systems</strong>, passionate about web development, APIs, and AI technologies.
   </p>
   <a href="https://www.foi.unizg.hr/hr">
