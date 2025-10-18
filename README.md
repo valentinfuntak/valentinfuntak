@@ -1,17 +1,14 @@
 <div>
   <h1 style="font-size:3em;">Hi! I'm Valentin</h1>
-  <div style="display:flex; align-items:center; gap:10px; max-width:600px;">
-    <a href="https://www.foi.unizg.hr/hr">
+      <a href="https://www.foi.unizg.hr/hr">
       <img src="https://www.foi.unizg.hr/sites/default/files/logo800500.png" alt="FOI Logo" height="60" />
     </a>
+  <div style="display:flex; align-items:center; gap:10px; max-width:600px;">
     <p style="font-size:1.3em; margin:0;">
       I’m a 1st-year student in <strong>Information & Business Systems</strong>, passionate about web development, APIs, and AI technologies.
     </p>
   </div>
 </div>
-
-
-
 
 <!-- Frameworks & Libraries -->
 <h3 align="left">Frameworks & Libraries</h3>
