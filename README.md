@@ -103,7 +103,10 @@
 </p>
 -->
 
-<!-- FOI Logo prikazan preko cijele širine -->
-<a href="https://www.foi.unizg.hr/hr">
-  <img src="https://www.foi.unizg.hr/sites/default/files/logo800500.png" alt="FOI Logo" />
+<!-- FOI Logo prikazan u gornjem lijevom kutu -->
+<a href="https://www.foi.unizg.hr/hr" style="display:inline-block;">
+  <img src="https://www.foi.unizg.hr/sites/default/files/logo800500.png" 
+       alt="FOI Logo" 
+       style="height:60px; width:auto;" />
 </a>
+
