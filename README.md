@@ -8,6 +8,7 @@
     </a>
 </div>
 
+<div align="center">
 <!-- Frameworks & Libraries -->
 <h3 align="left">Frameworks & Libraries</h3>
 <p align="left">
@@ -92,3 +93,4 @@
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" />
   </a>
 </p>
+</div>
