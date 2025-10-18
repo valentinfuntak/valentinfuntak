@@ -1,5 +1,5 @@
-<h2 align="left">Hello! </h2>
-<h2 align="left">My name is Valentin and I'm a FOI student, from Varaždin.</h2>
+<h2 align="left">Hi! I'm Valentin. </h2>
+<h2> align="left">FOI</h2>
 
 ###
 
