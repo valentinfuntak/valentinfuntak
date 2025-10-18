@@ -104,6 +104,12 @@
 -->
 
 <!-- FOI Logo prikazan u gornjem lijevom kutu -->
+<a href="https://www.foi.unizg.hr/hr" style="display:inline-block;">
+  <img src="https://www.foi.unizg.hr/sites/default/files/logo800500.png" 
+       alt="FOI Logo" 
+       style="height:60px; width:auto;" />
+</a>
+
 <p>
   <a href="mailto:tvojemail@gmail.com" target="_blank" style="display:inline-block; margin-right:10px;">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" />
@@ -115,9 +121,3 @@
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" />
   </a>
 </p>
-<a href="https://www.foi.unizg.hr/hr" style="display:inline-block;">
-  <img src="https://www.foi.unizg.hr/sites/default/files/logo800500.png" 
-       alt="FOI Logo" 
-       style="height:60px; width:auto;" />
-</a>
-
