@@ -1,4 +1,4 @@
-<h2 align="left">Hello! My name is Valentin and I'm a FOI student, from Varaždin</h2>
+<h2 align="left">Hello! My name is Valentin and I'm a FOI student, from Varaždin.</h2>
 
 ###
 
