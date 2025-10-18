@@ -29,7 +29,7 @@
 <h3 align="left">Programming Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,godot,java" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,godot" />
   </a>
 </p>
 
