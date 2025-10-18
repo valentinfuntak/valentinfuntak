@@ -1,13 +1,12 @@
-<h2 align="left">
-  Hi! I'm Valentin
-  <img src="https://www.foi.unizg.hr/sites/default/files/logo800500.png" alt="FOI Logo" height="30" style="vertical-align:middle;" />
-</h2>
-<p align="left">
-  I’m a 1st-year student in <strong>Information & Business Systems</strong>, passionate about web development, APIs, and AI technologies.
-</p>
+<div align="center">
+  <h2>Hi! I'm Valentin</h2>
+  <img src="https://www.foi.unizg.hr/sites/default/files/logo800500.png" alt="FOI Logo" height="60" style="margin: 10px 0;" />
+  <p>
+    I’m a 1st-year student in <strong>Information & Business Systems</strong>, passionate about web development, APIs, and AI technologies.
+  </p>
+</div>
 
-
-<!--  Frameworks & Libraries -->
+<!-- ⚛️ Frameworks & Libraries -->
 <h3 align="left">Frameworks & Libraries</h3>
 <p align="left">
   <a href="https://skillicons.dev">
