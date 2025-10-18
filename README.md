@@ -41,19 +41,11 @@
   </a>
 </p>
 
-<!-- 🤖 AI & APIs -->
-<h3 align="left">AI & APIs</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=openai,flightradar,open-meteo" />
-  </a>
-</p>
-
 <!-- ☁️ Cloud & Hosting -->
 <h3 align="left">Cloud & Hosting</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vercel,supabase" />
+    <img src="https://skillicons.dev/icons?i=vercel,github,githubactions" />
   </a>
 </p>
 
