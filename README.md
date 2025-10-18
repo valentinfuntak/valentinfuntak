@@ -28,7 +28,7 @@
 <h3 align="left">Tools & Environment</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,npm,wasm" />
+    <img src="https://skillicons.dev/icons?i=vscode,npm" />
   </a>
 </p>
 
