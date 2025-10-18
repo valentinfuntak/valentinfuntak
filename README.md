@@ -52,7 +52,9 @@
 <!-- 📫 Contact -->
 <h3 align="left">Contact Me</h3>
 <p align="left">
-  <a href="mailto:tvojemail@gmail.com"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&style=for-the-badge" alt="email" height="35" /></a>
-  <a href="https://www.linkedin.com/in/tvoj-profil"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" alt="linkedin" height="35" /></a>
-  <a href="https://github.com/tvoj-github"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&style=for-the-badge" alt="github" height="35" /></a>
+  <a href="mailto:valentinfuntakk@gmail.com"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&style=for-the-badge" alt="email" height="35" /></a>
+  <a href="[https://www.linkedin.com/in/tvoj-profil](https://www.linkedin.com/in/valentin-funtak-73636338b/)"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" alt="linkedin" height="35" /></a>
+  <a href="[https://github.com/tvoj-github](https://github.com/valentinfuntak)"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&style=for-the-badge" alt="github" height="35" />
+  
+  </a>
 </p>
