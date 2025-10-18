@@ -1,7 +1,11 @@
-<h2 align="left">Hi! I'm Valentin.</h2>
+<h2 align="left">
+  Hi! I'm Valentin
+  <img src="https://www.foi.unizg.hr/sites/default/files/logo800500.png" alt="FOI Logo" height="30" style="vertical-align:middle; margin-left:10px;" />
+</h2>
 <p align="left">
   I’m a 1st-year student in <strong>Information & Business Systems</strong>, passionate about web development, APIs, and AI technologies.
 </p>
+
 
 <!--  Frameworks & Libraries -->
 <h3 align="left">Frameworks & Libraries</h3>
