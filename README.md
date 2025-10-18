@@ -1,12 +1,13 @@
 <!--<div align="center">-->
-  <h1 style="font-size:3em;">Hi! I'm Valentin</h1>
-    <!--<p style="font-size:1.3em; margin:0;">
+  <!--<h1 style="font-size:3em;">Hi! I'm Valentin</h1>-->
+      <p style="font-size:1.3em; margin:0;">
       I’m a 1st-year student in <strong>Information & Business Systems</strong>, passionate about web development, APIs, and AI technologies.
-    </p>-->
-    <a href="https://www.foi.unizg.hr/hr">
-      <img src="https://www.foi.unizg.hr/sites/default/files/logo800500.png" alt="FOI Logo" height="60" />
-    </a>
+    </p>
 <!--</div>-->
+
+<a href="https://www.foi.unizg.hr/hr">
+  <img src="https://www.foi.unizg.hr/sites/default/files/logo800500.png" alt="FOI Logo" height="60" />
+</a>
 
 <!-- Frameworks & Libraries -->
 <!--<h3 align="left">Frameworks & Libraries</h3>
