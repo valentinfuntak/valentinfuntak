@@ -5,7 +5,7 @@
 <h3 align="left">Frameworks & Libraries</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,solidjs" />
+    <img src="https://skillicons.dev/icons?i=react,solidjs,flutter" />
   </a>
 </p>
 
@@ -22,6 +22,22 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,sqlite" />
+  </a>
+</p>
+
+<!-- 🖥️ Programming Languages -->
+<h3 align="left">Programming Languages</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,godot" />
+  </a>
+</p>
+
+<!-- 🐳 Containers & Virtualization -->
+<h3 align="left">Containers & Virtualization</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker" />
   </a>
 </p>
 
@@ -52,6 +68,9 @@
 <!-- 📫 Contact -->
 <h3 align="left">Contact Me</h3>
 <p align="left">
+  <a href="mailto:tvojemail@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
   <a href="https://www.linkedin.com/in/valentin-funtak-73636338b/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
