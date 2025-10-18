@@ -1,6 +1,6 @@
-<div align="center">
+<div>
   <h1 style="font-size:3em;">Hi! I'm Valentin</h1>
-  <div style="display:flex; align-items:center; justify-content:center; gap:10px; max-width:600px; margin:0 auto;">
+  <div style="display:flex; align-items:center; gap:10px; max-width:600px;">
     <a href="https://www.foi.unizg.hr/hr">
       <img src="https://www.foi.unizg.hr/sites/default/files/logo800500.png" alt="FOI Logo" height="60" />
     </a>
@@ -9,6 +9,7 @@
     </p>
   </div>
 </div>
+
 
 
 
