@@ -1,5 +1,6 @@
 <div align="center">
   <h1 style="font-size:3em;">Hi! I'm Valentin</h1>
+  <h1 style="font-size:3em;">About me</h1>
   <p style="font-size:1.3em; max-width:600px;">
     I’m a 1st-year student in <strong>Information & Business Systems</strong>, passionate about web development, APIs, and AI technologies.
   </p>
