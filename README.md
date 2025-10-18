@@ -55,7 +55,7 @@
   <a href="https://www.linkedin.com/in/valentin-funtak-73636338b/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="[https://www.instagram.com/tvoj-profil/](https://www.instagram.com/valentinfuntakkk/)" target="_blank">
+  <a href="https://www.instagram.com/valentinfuntakkk/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </p>
