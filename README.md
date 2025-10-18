@@ -12,7 +12,7 @@
 <h3 align="left">Backend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,sqlite" />
+    <img src="https://skillicons.dev/icons?i=supabase,sqlite,nodejs,express," />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 <h3 align="left">Tools & Environment</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,npm,wasm" />
+    <img src="https://skillicons.dev/icons?i=vscode,npm" />
   </a>
 </p>
 
